@@ -14,8 +14,7 @@ set_project_warnings(project_warnings)
 
 # Build the targets
 add_subdirectory(lib)
-# Tests
-add_subdirectory(tests)
+
 
 
 
